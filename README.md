@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyanshsk&theme=highcontrast&show_icons=true&locale=en" alt="shreyanshsk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshsk&&theme=highcontrast" alt="shreyanshsk" /></p>
+
+![snake gif](https://github.com/SHREYANSHSK/SHREYANSHSK/blob/output/github-contribution-grid-snake.gif)
